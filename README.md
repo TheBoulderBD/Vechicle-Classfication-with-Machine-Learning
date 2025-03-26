@@ -1,7 +1,8 @@
 # Vechicle-Classfication-with-Machine-Learning
 The goal of this project is to develop a machine learning model capable of accurately predicting a vehicle’s body type based on various numerical and categorical features. 
 
-Machine Learning Code \n
+Machine Learning Code 
+
 Use Jupyter Notebook through the Anaconda Library to open the .ipynb file to view the code for the program.
 
 
