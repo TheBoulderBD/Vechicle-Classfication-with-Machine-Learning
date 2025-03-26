@@ -1,5 +1,8 @@
 # Vechicle-Classfication-with-Machine-Learning
-The goal of this project is to develop a machine learning model capable of accurately predicting a vehicle’s body type based on various numerical and categorical features. 
+Purpose
+
+The goal of this project is to develop a machine learning model capable of accurately predicting a vehicle’s body type based on various numerical and categorical features. The machine used has 32 GB of RAM, an Intel Core i9-14900K, and an RTX 4060 graphics card. The dataset, collected from Carvana.com using the Import.io web scraping tool, consists of 345 rows and 10 key vehicle features. The data collection process was limited, so the algorithm covers four body types: hatchback, SUV, sedan, and truck. The data was preprocessed through encoding categorical variables and scaling numerical attributes to enhance model performance. The machine learning classifiers used include Random Forest, Decision Tree, Support Vector Machine (SVM), and Bagging (Decision Tree). The best-performing classifier for this dataset was the SVM, achieving an accuracy score of 97.5%. This explains that the machine learning model can effectively classify a vehicle’s body type based on the selected features.
+
 
 Machine Learning Code 
 
