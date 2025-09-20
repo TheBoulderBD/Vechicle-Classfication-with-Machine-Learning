@@ -107,3 +107,5 @@ Figure 5: Confusion matrix for SVM classifier as the best model
 This confusion matrix shows that the model classified all the class labels that are 0 and 3 accurately. These are the numbers for the hatchback and truck body types, respectively. The model accurately identified one sample of each for the sedan and SUV body type. If there was more than one label being inaccurately identified, it could point out that the features don’t provide enough information to identify that class label. Luckily, that is not the case here because 1 out of 30 samples being misidentified is acceptable.
 One limitation of this study is the dataset size, which was constrained by the scraping tool's query limit. Expanding the dataset could further improve the model’s generalization. It would also allow for data from other car body types to be implemented. Overall, the results demonstrate that machine learning can effectively classify vehicle body types using structured data, and the SVM algorithm is the best-performing classifier for this dataset. 
 
+Future improvements:
+Using vehicle images to identify their body class.
